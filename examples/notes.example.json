@@ -1,0 +1,24 @@
+[
+  {
+    "note_id": "note-001",
+    "patient_id": "patient-001",
+    "note_time": "2020-01-01T08:00:00",
+    "text": "Assessment notes AKI with creatinine rise after hypotension.",
+    "metadata": {"source": "synthetic"}
+  },
+  {
+    "note_id": "note-002",
+    "patient_id": "patient-001",
+    "note_time": "2020-01-02T08:00:00",
+    "text": "Respiratory status improved.",
+    "metadata": {"source": "synthetic"}
+  },
+  {
+    "note_id": "note-003",
+    "patient_id": "patient-002",
+    "note_time": "2020-01-01T08:00:00",
+    "text": "AKI is discussed for another synthetic patient.",
+    "metadata": {"source": "synthetic"}
+  }
+]
+

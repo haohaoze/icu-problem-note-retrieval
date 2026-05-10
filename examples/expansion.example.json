@@ -1,0 +1,8 @@
+{
+  "problem_id": "aki",
+  "problem_text": "acute kidney injury",
+  "aliases": ["AKI"],
+  "query_expressions": ["acute kidney injury"],
+  "evidence_search_terms": ["creatinine rise", "renal function worsened"]
+}
+

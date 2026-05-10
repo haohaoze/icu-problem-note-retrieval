@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Do not commit clinical data or experiment exports.
+data/
+outputs/
+results/
+*.csv
+*.tsv
+*.jsonl
+*.gz
+*.zip
+
